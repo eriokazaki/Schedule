@@ -1,0 +1,60 @@
+header {
+    width: 100%;
+    padding: 15px;
+    margin-bottom: 30px;
+    background-color: orange;
+    color: white;
+  }
+  
+  footer{
+    width: 100%;
+    padding-left: 15px;
+    margin-top: 30x;
+    background-color: orange;
+    color: white;
+  }
+  
+  table th {
+    background-color: #fbc25b;
+    padding: 10px 20px;
+  }
+  
+  table td {
+    background-color: #f9ecd5;
+    padding: 10px 20px;
+  }
+  
+  .notice {
+    background-color: lightgreen;
+    width: 500px;
+    border: 1px solid green;
+    text-align: center;
+    padding: 15px;
+  }
+
+  .failure {
+    background-color: hsl(0, 73%, 75%);
+    width: 500px;
+    border: 1px solid rgb(169, 9, 62);
+    text-align: center;
+    padding: 15px;
+  }
+
+  ul {
+    list-style: none;
+  }
+
+  td > a {
+    display: flex;
+    justify-content: center;
+  }
+  
+  strong {
+    display: flex;
+    justify-content: center;
+  }
+
+  li {
+    color: red;
+  }
+  
